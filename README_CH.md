@@ -21,13 +21,13 @@
 数据集模拟了三种不同的水下光照条件：
 
 1. **亮光**：模拟充足光照的环境。
-   <img src="Readme.assets/f16026ab16100bb220c1e56c52123073-17279203093121.jpg" height="200px" style="display:inline;" />   <img src="README.assets/image-20250220102219338.png" height="200px" style="display:inline;" />
+    <img src="README.assets/1.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-1.png" height="200px" style="display:inline;" />
 
 2. **中光**：模拟中等光照的环境。
-   <img src="Readme.assets/5f3783a7c3e1b17ed0afbdac3ffa31bb.jpg" height="200px" style="display:inline;" />   <img src="README.assets/image-20250220104751249-17400196733031.png" height="200px" style="display:inline;" />
+   <img src="README.assets/2.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-2.png" height="200px" style="display:inline;" />
 
 3. **暗光**：模拟低光照的环境。
-   <img src="Readme.assets/909a301b692f525015a7823dcf88d8ed.jpg" height="200px" style="display:inline;" />   <img src="README.assets/image-20250220102239649.png" height="200px" style="display:inline;" />
+   <img src="README.assets/3.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-3.png" height="200px" style="display:inline;" />
 
 
 数据根据视角分为两种：

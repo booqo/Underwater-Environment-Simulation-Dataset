@@ -21,13 +21,14 @@ The dataset simulates three different underwater lighting conditions:
 
 1. **Bright Light**: Simulates an environment with abundant lighting.
 
-    <img src="README.assets/f16026ab16100bb220c1e56c52123073-17279203093121-17400742061881.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-20250220102219338.png" height="200px" style="display:inline;" />
+    <img src="README.assets/1.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-1.png" height="200px" style="display:inline;" />
 
-2. **Medium Light**: Simulates an environment with moderate lighting. <img src="README.assets/5f3783a7c3e1b17ed0afbdac3ffa31bb-17400742061892.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-20250220104751249-17400196733031.png" height="200px" style="display:inline;" />
+2. **Medium Light**: Simulates an environment with moderate lighting. 
+   <img src="README.assets/2.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-2.png" height="200px" style="display:inline;" />
 
 3. **Low Light**: Simulates an environment with low lighting. 
 
-   <img src="README.assets/909a301b692f525015a7823dcf88d8ed-17400742061893.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-20250220102239649.png" height="200px" style="display:inline;" />
+   <img src="README.assets/3.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-3.png" height="200px" style="display:inline;" />
 
 The data is divided into two viewpoints:
 
