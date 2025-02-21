@@ -6,7 +6,7 @@ This dataset contains 6 sequences simulating underwater environments under diffe
 
 - **Deep-sea Stereo Camera** (6000-meter encapsulation)
 
-<img src="README.assets/sensor.jpg" width="800px"/>
+<img src=".assets/sensor.jpg" width="800px"/>
 
 - **Recording Resolution**: 720p
 - Recorded Content:
@@ -21,14 +21,14 @@ The dataset simulates three different underwater lighting conditions:
 
 1. **Bright Light**: Simulates an environment with abundant lighting.
 
-    <img src="README.assets/1.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-1.png" height="200px" style="display:inline;" />
+    <img src=".assets/1.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-1.png" height="200px" style="display:inline;" />
 
 2. **Medium Light**: Simulates an environment with moderate lighting. 
-   <img src="README.assets/2.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-2.png" height="200px" style="display:inline;" />
+   <img src=".assets/2.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-2.png" height="200px" style="display:inline;" />
 
 3. **Low Light**: Simulates an environment with low lighting. 
 
-   <img src="README.assets/3.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-3.png" height="200px" style="display:inline;" />
+   <img src=".assets/3.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-3.png" height="200px" style="display:inline;" />
 
 The data is divided into two viewpoints:
 

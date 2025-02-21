@@ -6,7 +6,7 @@
 
 - **深海双目相机**（6000米封装）
 
-<img src="README.assets/sensor.jpg" width="800px"/>
+<img src=".assets/sensor.jpg" width="800px"/>
 
 - **录制分辨率**：720p
 - 记录内容：
@@ -21,13 +21,13 @@
 数据集模拟了三种不同的水下光照条件：
 
 1. **亮光**：模拟充足光照的环境。
-    <img src="README.assets/1.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-1.png" height="200px" style="display:inline;" />
+    <img src=".assets/1.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-1.png" height="200px" style="display:inline;" />
 
 2. **中光**：模拟中等光照的环境。
-   <img src="README.assets/2.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-2.png" height="200px" style="display:inline;" />
+   <img src=".assets/2.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-2.png" height="200px" style="display:inline;" />
 
 3. **暗光**：模拟低光照的环境。
-   <img src="README.assets/3.jpg" height="200px" style="display:inline;" /> <img src="README.assets/image-3.png" height="200px" style="display:inline;" />
+   <img src=".assets/3.jpg" height="200px" style="display:inline;" /> <img src=".assets/image-3.png" height="200px" style="display:inline;" />
 
 
 数据根据视角分为两种：
