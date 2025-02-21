@@ -70,8 +70,8 @@ All data is stored in the `rosbag` format, containing the following:
 
 The calibration files and results are located in the calibration folder.
 
-```
-bash复制编辑├── checkerboard.yaml
+```bash
+├── checkerboard.yaml
 ├── zed_raw
 │   ├── Kalib_data_HD720_raw.bag
 │   ├── Kalib_data_HD720_raw-camchain.yaml
