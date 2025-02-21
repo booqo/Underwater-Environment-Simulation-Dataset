@@ -1,0 +1,31 @@
+Calibration results 
+====================
+Camera-system parameters:
+cam0 (/zed_node/left_raw/image_raw_color):
+    type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
+    distortion: [-0.25654653  0.19727457 -0.00043343  0.00499067] +- [ 0.0038832   0.00958461  0.00033668  0.00040419]
+    projection: [ 516.34979458  515.4755545   333.06919394  182.05340222] +- [ 0.28194611  0.30172785  1.19779155  0.4898362 ]
+    reprojection error: [-0.000150, -0.000247] +- [0.168057, 0.129107]
+
+cam1 (/zed_node/right_raw/image_raw_color):
+    type: <class 'aslam_cv.libaslam_cv_python.DistortedPinholeCameraGeometry'>
+    distortion: [-0.25058608  0.15353445 -0.00099968  0.00444158] +- [ 0.00340251  0.00687297  0.00032041  0.00033306]
+    projection: [ 517.27631413  516.37637782  333.55095986  181.14656536] +- [ 0.3177857   0.30733966  0.89128451  0.49119148]
+    reprojection error: [-0.000144, -0.000246] +- [0.174012, 0.132486]
+
+baseline T_1_0:
+    q: [ 0.00123868 -0.00242795 -0.00026349  0.99999625] +- [ 0.00190194  0.0040302   0.00016711]
+    t: [-0.63061786 -0.00001942 -0.00697495] +- [ 0.00076524  0.00067153  0.0035155 ]
+
+
+
+Target configuration
+====================
+
+  Type: checkerboard
+  Rows
+    Count: 8
+    Distance: 0.15 [m]
+  Cols
+    Count: 11
+    Distance: 0.15 [m]
