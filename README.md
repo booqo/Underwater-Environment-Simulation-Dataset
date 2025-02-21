@@ -24,9 +24,10 @@ The dataset simulates three different underwater lighting conditions:
     <img src=".assets/1.jpg" height="150px" style="display:inline;" /> <img src=".assets/image-1.png" height="150px" style="display:inline;" />
 
 2. **Medium Light**: Simulates an environment with moderate lighting. 
+3. 
    <img src=".assets/2.jpg" height="150px" style="display:inline;" /> <img src=".assets/image-2.png" height="150px" style="display:inline;" />
 
-3. **Low Light**: Simulates an environment with low lighting. 
+4. **Low Light**: Simulates an environment with low lighting. 
 
    <img src=".assets/3.jpg" height="150px" style="display:inline;" /> <img src=".assets/image-3.png" height="150px" style="display:inline;" />
 
